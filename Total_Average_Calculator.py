@@ -22,7 +22,6 @@ if average != 0.0:
 else:
     average = 0.0
 
-
 print("\n")
 print("The total is: ", total)
 print("The amount of numbers entered: ", count)
